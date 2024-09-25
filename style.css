@@ -1,0 +1,31 @@
+h1 {
+    color: rgb(76, 250, 7);
+    background-color: gray;
+    width: 300px;
+    height: 50px;
+    font-size: 40px;
+    font-weight: lighter;
+    padding-left: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+.paragrafo {
+    color: rgb(76, 250, 7);
+    background-color: gray;
+    width: 300px;
+    padding-left: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    line-height: 30px;
+    /* letter-spacing: 5px; */
+    word-spacing: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+    padding-left: 30px;
+}
+
+div {
+    background-color: gray;
+}

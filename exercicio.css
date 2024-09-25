@@ -1,0 +1,27 @@
+h1 {
+    color: white;
+    padding-left: 95px;
+}
+
+div {
+    background-color: orange;
+}
+
+p {
+    color: red;
+}
+
+.paragrafo {
+    color: black;
+    line-height: 3px;
+
+}
+
+h2 {
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+span {
+    color: red;
+}
